@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: fb5ef625d36c16543a67657a22c3f1eb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 177
+        width: 81
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5071567, y: 0.39015487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e21b4d880766bd4aaf7ee2624a43db7
+      internalID: 1586802161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 179
+        width: 68
+        height: 114
+      alignment: 9
+      pivot: {x: 0.51704854, y: 0.27624178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d965fb8b66004f4ea28fc99c5c46401
+      internalID: -114277628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 163
+        width: 73
+        height: 106
+      alignment: 9
+      pivot: {x: 0.51588166, y: 0.45624584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f7b94624995e14aac9bb5d100b3dd3
+      internalID: 922878314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 178
+        width: 88
+        height: 105
+      alignment: 9
+      pivot: {x: 0.51317316, y: 0.29571113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b5aabf6f2ab17458515d788a7f1598
+      internalID: -76140020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 162
+        width: 97
+        height: 90
+      alignment: 9
+      pivot: {x: 0.49999842, y: 0.51932424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01fae93e68fb2d47b9b0a4c085ce049
+      internalID: 113860326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_5
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 162
+        width: 77
+        height: 114
+      alignment: 9
+      pivot: {x: 0.4924697, y: 0.413548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732a256e263c4e14fa4565705fbe81d2
+      internalID: 831731463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_6
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 179
+        width: 100
+        height: 64
+      alignment: 9
+      pivot: {x: 0.49420226, y: 0.4184742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800ddd47c9d3a63479c7e348c6a3a88a
+      internalID: -1766412869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 179
+        width: 82
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4999985, y: 0.4263824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d7546e27d1b3348ae95c7e6fc2478f
+      internalID: 1767973035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_8
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 179
+        width: 61
+        height: 93
+      alignment: 9
+      pivot: {x: 0.48098606, y: 0.4501297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9c529c3045629429e638fd6729383e
+      internalID: 1520103227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a580cf9989fd9dc46ad3ace37f206aec
+      internalID: -365938909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 37
+        width: 123
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4899ea6dda8a29041bfea684dd9ad684
+      internalID: -278860231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_13
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 31
+        width: 125
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1a17ea1ac44d14bb11c63da2214a8e
+      internalID: -870743099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 37
+        width: 124
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f737b5e9423944aacde87232768421
+      internalID: -104127988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_18
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 37
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb47bb8adad8a447840b955dbe46a05
+      internalID: 1806695226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_19
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 37
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7793482dcdd5d449990be7ed117128
+      internalID: -1199803742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_22
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 37
+        width: 48
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5120659, y: 0.6388095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd045c71cc5be04c86a9f6f82f8fd0f
+      internalID: -194078741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill(ChouHissatsuShinobiBachiA)_23
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 37
+        width: 63
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5091979, y: 0.825465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35021718bbb80441bc7188bb4fd7a20
+      internalID: -1570454144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Skill(ChouHissatsuShinobiBachiA)_0: 1586802161
+      Skill(ChouHissatsuShinobiBachiA)_1: -114277628
+      Skill(ChouHissatsuShinobiBachiA)_10: -627099144
+      Skill(ChouHissatsuShinobiBachiA)_11: -278860231
+      Skill(ChouHissatsuShinobiBachiA)_12: -1812222397
+      Skill(ChouHissatsuShinobiBachiA)_13: -870743099
+      Skill(ChouHissatsuShinobiBachiA)_14: -104127988
+      Skill(ChouHissatsuShinobiBachiA)_15: 1867829827
+      Skill(ChouHissatsuShinobiBachiA)_16: -297769050
+      Skill(ChouHissatsuShinobiBachiA)_17: -524950615
+      Skill(ChouHissatsuShinobiBachiA)_18: 1806695226
+      Skill(ChouHissatsuShinobiBachiA)_19: -1199803742
+      Skill(ChouHissatsuShinobiBachiA)_2: 922878314
+      Skill(ChouHissatsuShinobiBachiA)_20: -1255342102
+      Skill(ChouHissatsuShinobiBachiA)_21: -1461554396
+      Skill(ChouHissatsuShinobiBachiA)_22: -194078741
+      Skill(ChouHissatsuShinobiBachiA)_23: -1570454144
+      Skill(ChouHissatsuShinobiBachiA)_3: -76140020
+      Skill(ChouHissatsuShinobiBachiA)_4: 113860326
+      Skill(ChouHissatsuShinobiBachiA)_5: 831731463
+      Skill(ChouHissatsuShinobiBachiA)_6: -1766412869
+      Skill(ChouHissatsuShinobiBachiA)_7: 1767973035
+      Skill(ChouHissatsuShinobiBachiA)_8: 1520103227
+      Skill(ChouHissatsuShinobiBachiA)_9: -365938909
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - gaia
+  - Knight
+  - punch
+  - sodier
+  - magic
+  - skill1
+  - skill2
+  - ultimate
+  - fireBall
+  - DropItem
+  - HealthItem
+  - ManaItem
+  - ShieldItem
+  - skillBall
+  - skill1Shank
+  - skillComboShank
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1157002253
+    locked: 0
+  - name: UI
+    uniqueID: 349679287
+    locked: 0
+  - name: Player
+    uniqueID: 1994590511
+    locked: 0
+  - name: Monster
+    uniqueID: 1264725775
+    locked: 0

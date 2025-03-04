@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 0960e005049f80147a11ca5973206f49
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DaVongPhai_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 72
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5424301, y: 0.41576383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0170ec169bd95c6499fd7f15e705bea1
+      internalID: -529604446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaVongPhai_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 4
+        width: 55
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4157638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e55434b9f0dd534cbd2360a106c58c7
+      internalID: 843196505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaVongPhai_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4
+        width: 69
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4157638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9d7ab73e61d8542963026ab5cfba10
+      internalID: 793500198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaVongPhai_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 5
+        width: 69
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4157638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480e84e601b0add4fa59f4fc707811d9
+      internalID: 333055544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaVongPhai_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4
+        width: 79
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4157638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d4a7ca512319f478d720e119160168
+      internalID: -265145436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaVongPhai_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4
+        width: 103
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4157638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c518d654993f4b94082a4b1d9a7a384a
+      internalID: 1247170004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaVongPhai_6
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4
+        width: 96
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4157638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803a5a5f2a2207c46b59087deda55222
+      internalID: 1030446010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaVongPhai_7
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 4
+        width: 71
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4157638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae528749a5999441b08b874de075586
+      internalID: 1809640762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaVongPhai_8
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 4
+        width: 60
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4157638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283d494a14c3f7f4d9aa46ae5a1c2ffb
+      internalID: -508938817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaVongPhai_9
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 4
+        width: 62
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4157638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7689208351dd81c42b50b043b2cf7437
+      internalID: -1490427585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaVongPhai_10
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 4
+        width: 57
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4157638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3dc9fdb357c49488f399b9c48e302c
+      internalID: 533331978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaVongPhai_11
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 4
+        width: 62
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4157638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be076322382a5844b9361b294219be1
+      internalID: -1496035433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DaVongPhai_0: -529604446
+      DaVongPhai_1: 843196505
+      DaVongPhai_10: 533331978
+      DaVongPhai_11: -1496035433
+      DaVongPhai_2: 793500198
+      DaVongPhai_3: 333055544
+      DaVongPhai_4: -265145436
+      DaVongPhai_5: 1247170004
+      DaVongPhai_6: 1030446010
+      DaVongPhai_7: 1809640762
+      DaVongPhai_8: -508938817
+      DaVongPhai_9: -1490427585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

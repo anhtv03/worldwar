@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 12208687f11ae6b4ebedf9a4b9293b19
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnockOutTrai_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 66
+        height: 132
+      alignment: 9
+      pivot: {x: 0.53726226, y: 0.413055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96434cbf8f5157047a66ef73996447ec
+      internalID: -1496237553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOutTrai_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6
+        width: 73
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5898378, y: 0.413055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6a9ad0656d32244b3bdc5f3aaab240
+      internalID: 1711666622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOutTrai_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 7
+        width: 74
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6772475, y: 0.413055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaa44694f270e346bc550a452672557
+      internalID: -227657213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOutTrai_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 7
+        width: 76
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5862917, y: 0.413055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689a47c8eb6063f40b265acfadf93a86
+      internalID: -1335714086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOutTrai_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 6
+        width: 74
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5997022, y: 0.413055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086514a139530664a932f4f1eb5df178
+      internalID: -1108434633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOutTrai_5
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 4
+        width: 69
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5594036, y: 0.413055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdccce4626220374cb4fc7dd0710f89d
+      internalID: 173985970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOutTrai_6
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 6
+        width: 76
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5539326, y: 0.413055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfdc0071cceb7a478879013f8e12e94
+      internalID: -758787738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOutTrai_7
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 6
+        width: 66
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6490488, y: 0.413055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dcb026ce932584b91bbdb0574b10a6
+      internalID: -1851682510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOutTrai_8
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 6
+        width: 67
+        height: 132
+      alignment: 9
+      pivot: {x: 0.70800143, y: 0.413055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7945d9ee1004a41bb4df94bd56c4d9
+      internalID: 1487074001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOutTrai_9
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 6
+        width: 72
+        height: 132
+      alignment: 9
+      pivot: {x: 0.54554325, y: 0.413055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4128dd832cbe04abbc2393895fed8d
+      internalID: 78993093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOutTrai_10
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 6
+        width: 74
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5221566, y: 0.413055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88710c6f9329d5249b4acc45e04763d1
+      internalID: 1809486170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOutTrai_11
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 7
+        width: 73
+        height: 132
+      alignment: 9
+      pivot: {x: 0.4887712, y: 0.413055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e1fa82eebb0cb49a4d069c7a9b512d
+      internalID: -1934843384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOutTrai_12
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 7
+        width: 66
+        height: 132
+      alignment: 9
+      pivot: {x: 0.4751587, y: 0.413055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eee8861ab784c4ab7eb69170518387
+      internalID: 243463052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KnockOutTrai_0: -1496237553
+      KnockOutTrai_1: 1711666622
+      KnockOutTrai_10: 1809486170
+      KnockOutTrai_11: -1934843384
+      KnockOutTrai_12: 243463052
+      KnockOutTrai_2: -227657213
+      KnockOutTrai_3: -1335714086
+      KnockOutTrai_4: -1108434633
+      KnockOutTrai_5: 173985970
+      KnockOutTrai_6: -758787738
+      KnockOutTrai_7: -1851682510
+      KnockOutTrai_8: 1487074001
+      KnockOutTrai_9: 78993093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

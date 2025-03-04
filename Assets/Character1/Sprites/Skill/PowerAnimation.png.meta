@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 303324e4ee362f54b9e137cd2e8c4039
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PowerAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 18
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd3bc21630363c448698fff9998cd8a
+      internalID: 620993904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c944090f222604881986f03e2cf094
+      internalID: 2031689403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 18
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ef3e7e716ee7f4a96a9900db692e06
+      internalID: -1032874581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 18
+        width: 107
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a9d8a2b2e54c4b9ccfd0f2fad251d
+      internalID: -1371267560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 18
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bed53caf97f2c546beb027fb174c9bd
+      internalID: -1284341792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PowerAnimation_0: 620993904
+      PowerAnimation_1: 2031689403
+      PowerAnimation_10: 1375781810
+      PowerAnimation_11: -695513793
+      PowerAnimation_12: -1160924709
+      PowerAnimation_13: -1784508787
+      PowerAnimation_14: -738281217
+      PowerAnimation_15: 849932337
+      PowerAnimation_16: 823562297
+      PowerAnimation_17: 407765422
+      PowerAnimation_18: 1669925287
+      PowerAnimation_19: 1476215099
+      PowerAnimation_2: -1032874581
+      PowerAnimation_20: 431357703
+      PowerAnimation_21: 1008586417
+      PowerAnimation_22: 1444444027
+      PowerAnimation_23: -1384412838
+      PowerAnimation_24: 725704446
+      PowerAnimation_25: -968745508
+      PowerAnimation_26: -414522428
+      PowerAnimation_27: -1482115915
+      PowerAnimation_28: -1909201500
+      PowerAnimation_29: 713371121
+      PowerAnimation_3: -1371267560
+      PowerAnimation_30: 744580286
+      PowerAnimation_31: 1201291697
+      PowerAnimation_32: 1905799364
+      PowerAnimation_33: -725577812
+      PowerAnimation_34: 106957698
+      PowerAnimation_35: 1885076761
+      PowerAnimation_36: -1970279456
+      PowerAnimation_37: 1613839586
+      PowerAnimation_38: -491587897
+      PowerAnimation_39: -188461582
+      PowerAnimation_4: -1284341792
+      PowerAnimation_40: -733541153
+      PowerAnimation_41: 2038830984
+      PowerAnimation_42: -1298902879
+      PowerAnimation_43: -612176925
+      PowerAnimation_44: -1241115543
+      PowerAnimation_45: 649454396
+      PowerAnimation_46: 1931797111
+      PowerAnimation_47: 1978652036
+      PowerAnimation_48: 437789320
+      PowerAnimation_49: 878710431
+      PowerAnimation_5: 572565597
+      PowerAnimation_50: 1761934669
+      PowerAnimation_51: -735638
+      PowerAnimation_52: -2018030055
+      PowerAnimation_53: 23275153
+      PowerAnimation_54: 1114499027
+      PowerAnimation_55: -1698885871
+      PowerAnimation_56: -587353287
+      PowerAnimation_57: -1166511145
+      PowerAnimation_58: -483810489
+      PowerAnimation_59: -807972566
+      PowerAnimation_6: -1440442677
+      PowerAnimation_60: -1393312893
+      PowerAnimation_61: 1080956887
+      PowerAnimation_62: -1469605619
+      PowerAnimation_63: 1023564230
+      PowerAnimation_64: -661958054
+      PowerAnimation_65: -2122027743
+      PowerAnimation_66: 770612957
+      PowerAnimation_67: -236871206
+      PowerAnimation_68: 242914134
+      PowerAnimation_69: -800690077
+      PowerAnimation_7: -413459200
+      PowerAnimation_70: -448316171
+      PowerAnimation_71: -395076605
+      PowerAnimation_72: -1852576707
+      PowerAnimation_73: -1313707442
+      PowerAnimation_74: -421343386
+      PowerAnimation_75: 1499638677
+      PowerAnimation_76: -1610855139
+      PowerAnimation_77: -622403348
+      PowerAnimation_78: -1166507505
+      PowerAnimation_79: -219203741
+      PowerAnimation_8: -158600892
+      PowerAnimation_80: -1686239721
+      PowerAnimation_81: -1858151701
+      PowerAnimation_82: -419652303
+      PowerAnimation_83: 1713103404
+      PowerAnimation_84: -998550433
+      PowerAnimation_9: 1429836193
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

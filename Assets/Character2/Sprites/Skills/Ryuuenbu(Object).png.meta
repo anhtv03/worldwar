@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: 21e5a765e9a03404ab1b6b7eb616c41c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 124
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00abdcaab7df045438a346014dbe029c
+      internalID: 1586345944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 124
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0ec6214516118428aaaf23e7d440bd
+      internalID: -758111402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 122
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36774396d7792640a9900e25438663e
+      internalID: -548333112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 116
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e6fc4f4343d4c48bfb907810b4c86b
+      internalID: 1502078997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_4
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 123
+        width: 92
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069b9de5a674c78428c819dee4b38eb0
+      internalID: -1333047858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_7
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 121
+        width: 105
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491006ccb7ed6f84d96302beafd90d16
+      internalID: 602944492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_8
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 122
+        width: 108
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becdb8c97d1eb034ea4d4a71f2d57929
+      internalID: -994654639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_9
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 120
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3820315aa1b9f459c0ee79b9bc1c10
+      internalID: 1507036063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 144
+        width: 86
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe7f2ca848d3f142b973acc21f854ce
+      internalID: -1074808839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 123
+        width: 79
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e83ff1150413d14aab041a6a688f15d
+      internalID: -1041619432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_19
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 122
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9e713c870c5904f8557499d8e358da
+      internalID: 1363388755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 34
+        width: 112
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6470d1d186b8de54bbf4b0264c294c5e
+      internalID: 15102293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 34
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a3fa08c7e1b6e48ba864e03132bbb9
+      internalID: 1195436131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_39
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 33
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b315112862654b8c80a3ab7b4a6c3
+      internalID: 1087947665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryuuenbu(Object)_43
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 31
+        width: 89
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e04719b166bae4399efbc97c7725c8
+      internalID: 2140683589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ryuuenbu(Object)_0: 1586345944
+      Ryuuenbu(Object)_1: -758111402
+      Ryuuenbu(Object)_10: 1496442993
+      Ryuuenbu(Object)_11: -1074808839
+      Ryuuenbu(Object)_12: 120112256
+      Ryuuenbu(Object)_13: 216012370
+      Ryuuenbu(Object)_14: -1041619432
+      Ryuuenbu(Object)_15: 1622223974
+      Ryuuenbu(Object)_16: 715797531
+      Ryuuenbu(Object)_17: -1217880733
+      Ryuuenbu(Object)_18: -2079074252
+      Ryuuenbu(Object)_19: 1363388755
+      Ryuuenbu(Object)_2: -548333112
+      Ryuuenbu(Object)_20: -1708626167
+      Ryuuenbu(Object)_21: 360648166
+      Ryuuenbu(Object)_22: 504146655
+      Ryuuenbu(Object)_23: -340780096
+      Ryuuenbu(Object)_24: -254735265
+      Ryuuenbu(Object)_25: 141918710
+      Ryuuenbu(Object)_26: 666235672
+      Ryuuenbu(Object)_27: 1967786844
+      Ryuuenbu(Object)_28: -1630550269
+      Ryuuenbu(Object)_29: -357788861
+      Ryuuenbu(Object)_3: 1502078997
+      Ryuuenbu(Object)_30: 15102293
+      Ryuuenbu(Object)_31: 1411536497
+      Ryuuenbu(Object)_32: -194989243
+      Ryuuenbu(Object)_33: 1195436131
+      Ryuuenbu(Object)_34: -1514421077
+      Ryuuenbu(Object)_35: -2102982084
+      Ryuuenbu(Object)_36: -231072889
+      Ryuuenbu(Object)_37: 948776824
+      Ryuuenbu(Object)_38: 252048916
+      Ryuuenbu(Object)_39: 1087947665
+      Ryuuenbu(Object)_4: -1333047858
+      Ryuuenbu(Object)_40: 843217752
+      Ryuuenbu(Object)_41: 136623072
+      Ryuuenbu(Object)_42: -1292931305
+      Ryuuenbu(Object)_43: 2140683589
+      Ryuuenbu(Object)_5: -900597344
+      Ryuuenbu(Object)_6: 198774262
+      Ryuuenbu(Object)_7: 602944492
+      Ryuuenbu(Object)_8: -994654639
+      Ryuuenbu(Object)_9: 1507036063
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
