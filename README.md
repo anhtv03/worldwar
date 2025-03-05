@@ -2,7 +2,8 @@
 
 **1. Project Name**  
 Game title: World War
-Platform: 2D
+Platform: 2D  
+Deploy: https://anhtv03.itch.io/world-war
 
 **2. Project Goals**  
 Create a 2D game for 2 players where each player controls a hero. The goal is for the two heroes to fight each other, damaging each other with skills. Whoever runs out of health first loses.
